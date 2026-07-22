@@ -1,4 +1,4 @@
- Hi, I'm Muhammad Hassan 👋
+ Hi, I'm Muhammad Hassan 
 
  Software Engineering Student | AI/ML Intern | Machine Learning Enthusiast | Python Developer |  full  stack development 
 
